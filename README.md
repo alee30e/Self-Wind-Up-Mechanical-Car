@@ -5,6 +5,7 @@ The model uses a spiral spring, a ratchet-style locking mechanism, and a small g
 
 **3D Printable · PETG · Spring Mechanism · Gear Train · Ratchet Pawl · Motion Links · Fusion 360 Final Project**
 
+## Renders
 ---
 <p align="center">
   <img src="images/Rander1.png" width="45%">
@@ -140,10 +141,10 @@ The assembly uses several joint types:
 | Connection             | Joint Type             | Purpose                                         |
 | ---------------------- | ---------------------- | ----------------------------------------------- |
 | Gears to chassis       | Revolute Joint         | Allows gears to rotate around their axes.       |
-| Wheels to axle         | Rigid / Fixed relation | Makes the wheels rotate together with the axle. |
+| Wheels to axle         | Rigid                  | Makes the wheels rotate together with the axle. |
 | Axle to chassis        | Revolute Joint         | Allows the wheel axle to rotate.                |
 | Gear pairs             | Motion Link            | Simulates meshing gears with the correct ratio. |
-| Body panels to chassis | Fixed / Assembled      | Keeps the exterior shell in place.              |
+| Body panels to chassis | Rigid                  | Keeps the exterior shell in place.              |
 
 The motion study animates the main driving gear.
 Through the motion links, the other gears and the wheel axle rotate together, showing how the spring mechanism would drive the car.
@@ -248,5 +249,7 @@ Possible limitations:
 
 ## References
 
-https://www.thingiverse.com/thing:3308710
-https://www.printables.com/model/220947-fusion-360-pinion-wind-up-car
+* https://www.thingiverse.com/thing:3308710
+* https://www.printables.com/model/220947-fusion-360-pinion-wind-up-car
+* https://makerworld.com/en/models/1783036-spring-car-wind-up-mechanism-4x4
+* https://3druck.com/en/diy/youtuber-presents-3d-printed-spring-drive-module-with-steel-spiral-50147166/
