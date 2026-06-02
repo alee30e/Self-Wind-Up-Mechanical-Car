@@ -6,7 +6,16 @@ The model uses a spiral spring, a ratchet-style locking mechanism, and a small g
 **3D Printable · PETG · Spring Mechanism · Gear Train · Ratchet Pawl · Motion Links · Fusion 360 Final Project**
 
 ---
+<p align="center">
+  <img src="images/Rander1.png" width="45%">
+  <img src="images/Rander2.png" width="45%">
+</p>
 
+<p align="center">
+  <img src="images/Render3.png" width="60%">
+</p>
+
+---
 ## Description
 
 This project is a **spring-powered toy car** designed as a final project for the 3D Printing and Modeling course. The goal was to create a small mechanical product that is mostly 3D printable, includes movement, and can be explained through a clear mechanical system.
@@ -53,6 +62,7 @@ The **wheels** convert the rotational movement into forward movement.
 | ------------------------------------------------ | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="images/Car_Side1.png" width="220">     | **Left Body Panel**          | This panel forms one side of the exterior car shell. It gives the model a finished toy-car appearance and includes openings for the wheels and windows.                            |
 | <img src="images/Car_Side2.png" width="220">     | **Right Body Panel**         | This is the opposite body panel. Together with the left panel, it completes the exterior shape of the car and surrounds the internal mechanism.                                    |
+| <img src="images/Upper_Car_Body.png" width="220"> | **Upper Car Body** | The upper car body is the top cover of the exterior shell. It connects the two side body panels and completes the car shape from above. This part is mainly decorative, but it also helps the model look like a finished toy car while keeping the design simple and printable. |
 | <img src="images/Chassis1.png" width="220">      | **Left Chassis Plate**       | The left chassis plate supports the axles, gears, and internal moving parts from one side. It helps keep the mechanism aligned during movement.                                    |
 | <img src="images/Chassis2.png" width="220">      | **Right Chassis Plate**      | The right chassis plate is placed parallel to the left one. The two chassis plates form the main structural frame of the car.                                                      |
 | <img src="images/Spacer.png" width="220">        | **Spacer**                   | The spacer keeps the two chassis plates at a fixed distance from each other. This creates enough clearance for gears, axles, and wheels to rotate freely.                          |
