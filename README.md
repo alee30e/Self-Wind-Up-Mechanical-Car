@@ -118,7 +118,6 @@ Spring Gear → Middle Gear → Axle Gear → Wheel Axle → Wheels
 The gears are connected using Fusion 360 motion links.
 The motion ratio depends on the number of teeth of each gear.
 
-For example, if one gear has 24 teeth and the other has 20 teeth:
 
 ```text
 Gear ratio = 24 / 20 = 1.2
@@ -218,7 +217,7 @@ The final expected result is a small mechanical car whose wheels are driven by a
 A short video demonstrates the Fusion 360 motion study, motion links, and the expected movement of the gear train.
 
 ```md
-[Watch the motion study video on YouTube](PASTE_YOUTUBE_LINK_HERE)
+Watch the motion video on YouTube -> https://youtu.be/4tHEvKoVRSU
 ```
 
 The video shows:
