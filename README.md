@@ -1,226 +1,3 @@
-## 3D Modeling and Printing Project
-
----
-
-## Project Overview
-
-This project focuses on designing and building a fully functional 3D printed mechanical toy car powered by a self wind-up mechanism.
-
-The vehicle uses a spiral spring system to store mechanical energy. When the spring is tensioned, the stored energy is released through a gear transmission system that drives the wheels forward.
-
-The final product combines:
-
-- mechanical design;
-- gear systems;
-- 3D modeling;
-- additive manufacturing;
-- product design.
-
-The result will be a functional toy vehicle with both mechanical and aesthetic components.
-
----
-
-## Project Concept
-
-The inspiration for this project comes from traditional pull-back toy cars and mechanical wind-up toys.
-
-The main mechanism of the vehicle is a 3D printed spiral spring integrated inside the chassis. The spring stores rotational energy and gradually releases it to move the car.
-
-To increase the complexity and quality of the project, the vehicle will also include:
-
-- a complete outer body shell;
-- internal housing for the spring and gears;
-- modular assembly;
-- removable parts;
-- custom exterior styling.
-
-The design combines functionality, durability, and visual appearance into a single mechanical product.
-
----
-
-## Objectives
-
-### Main Objectives
-
-- Create a fully functional 3D printed toy car;
-- Develop a working self wind-up mechanism using a spiral spring;
-- Design a complete body shell for the vehicle;
-- Achieve stable and efficient movement.
-
-### Secondary Objectives
-
-- Optimize components for 3D printing;
-- Improve assembly simplicity;
-- Create an attractive vehicle design.
-
----
-
-## Components
-
-### Mechanical Components
-
-- spiral spring mechanism;
-- gears;
-- axles;
-- wheels;
-- transmission system;
-- wheel supports.
-
-### Structural Components
-
-- main chassis;
-- upper body shell;
-- front hood;
-- side panels;
-- spring housing compartment;
-- modular fixing elements.
-
----
-
-## Software Used
-
-| Software | Purpose |
-|---|---|
-| Fusion 360 | 3D modeling and assembly design |
-| PrusaSlicer | Print preparation and slicing |
-
-The entire project will be designed in Fusion 360, including the chassis, gears, spiral spring, wheels, and exterior body shell.
-
----
-
-## Materials
-
-### Main Material
-
-**PETG Filament**
-
-PETG filament is chosen because it offers:
-
-- good mechanical strength;
-- improved flexibility compared to PLA;
-- better durability;
-- higher resistance to repeated stress;
-- better performance for moving parts.
-
-PETG is especially suitable for the spiral spring mechanism because the spring needs to repeatedly flex without breaking.
-
----
-
-## Spiral Spring Mechanism
-
-The self wind-up system is based on a 3D printed spiral spring integrated into the drivetrain.
-
-### Working Principle
-
-1. The spring is tensioned by rotating the wheels backward or manually winding the mechanism.
-2. Mechanical energy is stored inside the spiral spring.
-3. The stored energy is gradually released.
-4. The gear transmission transfers motion to all four wheels.
-
-This mechanism allows the vehicle to move without batteries or electronic components.
-
----
-
-## Development Process
-
-### Phase 1 — Research
-
-- studying spiral spring mechanisms;
-- analyzing existing wind-up toys;
-- defining dimensions and structure.
-
-### Phase 2 — 3D Modeling
-
-- chassis creation;
-- transmission system design;
-- spiral spring housing design;
-- body shell modeling;
-- tolerance adjustment.
-
-### Phase 3 — 3D Printing
-
-- print setup;
-- PETG optimization;
-- component printing;
-- quality inspection.
-
-### Phase 4 — Assembly
-
-- spring installation;
-- gear alignment;
-- wheel mounting;
-- body shell assembly;
-- final adjustments.
-
-### Phase 5 — Testing
-
-- spring performance testing;
-- movement efficiency evaluation;
-- friction optimization;
-- durability testing.
-
----
-
-## Estimated Technical Specifications
-
-| Specification | Estimated Value |
-|---|---|
-| Length | 15–20 cm |
-| Width | 8–10 cm |
-| Drive System | 4x4 |
-| Material | PETG |
-| Mechanism Type | Spiral spring self wind-up |
-| Number of Parts | ~20–30 |
-| Manufacturing Method | FDM 3D Printing |
-
----
-
-## Body Shell Design
-
-To increase the engineering complexity of the project, the toy car will feature a custom-designed body shell.
-
-The shell will provide:
-
-- protection for internal components;
-- structural support;
-- improved aesthetics;
-- integration of the mechanical system.
-
-The design will include:
-
-- front hood;
-- cabin section;
-- side panels;
-- spring compartment integration;
-- modular mounting points.
-
-The exterior styling will be inspired by sports and off-road vehicles.
-
----
-
-## Advantages of the Project
-
-- mostly 3D printed components;
-- functional mechanical spring system;
-- no electronics required;
-- reusable mechanical energy system;
-- durable PETG construction;
-- practical use of 3D printing technologies.
-
----
-
-## Future Improvements
-
-Possible future upgrades include:
-
-- steering system;
-- suspension system;
-- bearing-supported drivetrain;
-- interchangeable body shells;
-- stronger spring mechanisms;
-- electric-assisted version.
-
-
 ## 1. Project Description
 
 This project is a **3D printable spring-powered toy car** designed in **Autodesk Fusion 360**. The main goal of the project is to create a small mechanical car that can store energy using a **spiral spring mechanism** and transfer that motion through a **gear system** to the wheels.
@@ -259,6 +36,242 @@ The car is built from several 3D printable components. Each part was designed se
 The mechanism is mounted between the left and right chassis plates. The spacers keep the two plates separated and create enough room for the gears, axles, spring, and wheels to move freely. The spring, spring gear, pawl, middle gear, axle gear, and wheel axle are positioned inside the chassis structure.
 
 The wheels are mounted on the axles, while the body panels are attached afterwards around the mechanism. Some non-moving body parts can be glued together after printing, while the moving parts need to remain free to rotate. For this reason, small clearances were added around the axles, gears, and wheels.
+
+# Spring-Powered Toy Car
+
+A 3D-printable mechanical toy car designed in Autodesk Fusion 360.
+The model uses a spiral spring, a ratchet-style locking mechanism, and a small gear train to transfer rotational motion to the wheels.
+
+**3D Printable · PETG · Spring Mechanism · Gear Train · Ratchet Pawl · Motion Links · Fusion 360 Final Project**
+
+---
+
+## Description
+
+This project is a **spring-powered toy car** designed as a final project for the 3D Printing and Modeling course. The goal was to create a small mechanical product that is mostly 3D printable, includes movement, and can be explained through a clear mechanical system.
+
+The car stores mechanical energy using a **spiral spring**. When the spring is tensioned, it can transfer rotational motion to a **spring gear**. This motion continues through a gear train and eventually reaches the wheel axle, causing the wheels to rotate.
+
+The design also includes a **pawl / ratchet lock**, which interacts with the inner teeth of the spring gear. This part helps control the direction of rotation and prevents the spring gear from rotating backwards unintentionally.
+
+The car body is designed as a separate shell made from side panels. This gives the final model the appearance of a complete toy car while still allowing the internal mechanism to remain partially visible.
+
+---
+
+## How It Works
+
+The mechanism is based on a simple spring-powered transmission:
+
+```text
+User rotates / tensions the mechanism
+        ↓
+Spiral spring stores mechanical energy
+        ↓
+Spring gear receives rotational motion
+        ↓
+Pawl controls the direction of rotation
+        ↓
+Middle gear transfers motion further
+        ↓
+Axle gear rotates the wheel axle
+        ↓
+Wheels rotate and move the car forward
+```
+
+The **spiral spring** acts as the energy storage component.
+The **spring gear** is the first gear in the drivetrain.
+The **middle gear** transfers the rotation toward the wheel axle.
+The **axle gear** connects the gear train to the wheels.
+The **wheels** convert the rotational movement into forward movement.
+
+---
+
+## Component Overview
+
+| Image                                            | Component                    | Description                                                                                                                                                                        |
+| ------------------------------------------------ | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="Images/Car_Side1.png" width="220">     | **Left Body Panel**          | This panel forms one side of the exterior car shell. It gives the model a finished toy-car appearance and includes openings for the wheels and windows.                            |
+| <img src="Images/Car_Side2.png" width="220">     | **Right Body Panel**         | This is the opposite body panel. Together with the left panel, it completes the exterior shape of the car and surrounds the internal mechanism.                                    |
+| <img src="Images/Chassis1.png" width="220">      | **Left Chassis Plate**       | The left chassis plate supports the axles, gears, and internal moving parts from one side. It helps keep the mechanism aligned during movement.                                    |
+| <img src="Images/Chassis2.png" width="220">      | **Right Chassis Plate**      | The right chassis plate is placed parallel to the left one. The two chassis plates form the main structural frame of the car.                                                      |
+| <img src="Images/Spacer.png" width="220">        | **Spacer**                   | The spacer keeps the two chassis plates at a fixed distance from each other. This creates enough clearance for gears, axles, and wheels to rotate freely.                          |
+| <img src="Images/Spring.png" width="220">        | **Spiral Spring**            | The spiral spring is designed to store mechanical energy when twisted. PETG is a suitable material for this part because it is more flexible and impact-resistant than PLA.        |
+| <img src="Images/Spring_Gear.png" width="220">   | **Spring Gear**              | The spring gear receives motion from the spiral spring and transfers it to the gear train. The inner ratchet teeth work together with the pawl.                                    |
+| <img src="Images/Pawl.png" width="220">          | **Pawl / Ratchet Lock**      | The pawl controls the direction of rotation of the spring gear. It prevents unwanted reverse motion and helps make the mechanism more stable.                                      |
+| <img src="Images/Middle_Gear.png" width="220">   | **Compound Middle Gear**     | This component contains two gears fixed on the same axis. It transfers rotation from the spring gear toward the axle gear while also changing the speed and direction of rotation. |
+| <img src="Images/Wheel_Gear_Ax.png" width="220"> | **Wheel Gear Axle Assembly** | This part connects the drivetrain to the wheel axle. It helps transmit the gear motion to the wheels while keeping the rotating parts aligned.                                     |
+| <img src="Images/Wheel_Ax.png" width="220">      | **Wheel Axle**               | The wheel axle connects the wheels and allows them to rotate together. Its shape helps transfer rotation without slipping.                                                         |
+| <img src="Images/Wheel.png" width="220">         | **Drive Wheel**              | The wheels receive rotation from the axle and convert it into forward movement. The cutouts reduce material while keeping the part strong enough.                                  |
+| <img src="Images/Wheel_Flipped.png" width="220"> | **Drive Wheel with Hex Hub** | This view shows the hexagonal hub that connects the wheel to the axle. The hex shape helps transfer torque more reliably.                                                          |
+| <img src="Images/Knob.png" width="220">          | **Crank Knob**               | The knob is used for manual interaction with the mechanism. It can be used to rotate or tension the spring system before release.                                                  |
+| <img src="Images/Drive_Gear_Ax.png" width="220"> | **Drive Axle**               | This axle transfers rotation between connected components. Its shape is designed to fit matching holes and reduce slipping during motion.                                          |
+
+---
+
+## Mechanical Design
+
+### Chassis Structure
+
+The chassis is made from two side plates:
+
+* **Left Chassis Plate**
+* **Right Chassis Plate**
+
+These plates hold the gears, axles, spring, and wheels in position.
+Spacers are used between the plates to maintain a constant distance and create clearance for the moving parts.
+
+This approach makes the car easier to assemble and more realistic for 3D printing, because the mechanism can be inserted between the two plates instead of being trapped inside a single solid body.
+
+---
+
+### Spring and Ratchet Mechanism
+
+The spiral spring is the main energy storage element. When twisted, it stores mechanical energy. When released, it tends to return to its original shape, producing rotational motion.
+
+The spring gear includes ratchet-style inner teeth. The pawl interacts with these teeth and helps control the spring gear's motion. This prevents the gear from rotating backwards unintentionally and makes the mechanism easier to manage.
+
+---
+
+### Gear Train
+
+The drivetrain transfers motion from the spring gear to the wheels.
+
+The main sequence is:
+
+```text
+Spring Gear → Middle Gear → Axle Gear → Wheel Axle → Wheels
+```
+
+The gears are connected using Fusion 360 motion links.
+The motion ratio depends on the number of teeth of each gear.
+
+For example, if one gear has 24 teeth and the other has 20 teeth:
+
+```text
+Gear ratio = 24 / 20 = 1.2
+```
+
+Because two external gears rotate in opposite directions, the motion link uses a negative ratio:
+
+```text
+Motion Link Ratio = -1.2
+```
+
+This allows the Fusion 360 motion study to simulate the expected movement of the mechanism.
+
+---
+
+## Fusion 360 Joints and Motion
+
+The assembly uses several joint types:
+
+| Connection             | Joint Type             | Purpose                                         |
+| ---------------------- | ---------------------- | ----------------------------------------------- |
+| Gears to chassis       | Revolute Joint         | Allows gears to rotate around their axes.       |
+| Wheels to axle         | Rigid / Fixed relation | Makes the wheels rotate together with the axle. |
+| Axle to chassis        | Revolute Joint         | Allows the wheel axle to rotate.                |
+| Gear pairs             | Motion Link            | Simulates meshing gears with the correct ratio. |
+| Body panels to chassis | Fixed / Assembled      | Keeps the exterior shell in place.              |
+
+The motion study animates the main driving gear.
+Through the motion links, the other gears and the wheel axle rotate together, showing how the spring mechanism would drive the car.
+
+---
+
+## Design for 3D Printing
+
+The model was designed with FDM 3D printing in mind.
+
+Important printability decisions:
+
+* the body shell is split into separate side panels;
+* the chassis is split into two side plates;
+* gears, wheels, spring, pawl, axles, and spacers are printed separately;
+* flat parts can be printed directly on the bed;
+* moving parts have clearance to reduce friction;
+* edges are filleted or chamfered to avoid sharp corners;
+* holes and axle connections include tolerances for PETG printing;
+* non-moving body parts can be glued after printing.
+
+---
+
+PETG was chosen because it is more flexible and impact-resistant than PLA. This is especially useful for the spring, gears, pawl, and other moving parts.
+
+---
+
+## Assembly Steps
+
+1. Print all components separately.
+2. Clean the holes and remove any small printing imperfections.
+3. Insert the spacers between the left and right chassis plates.
+4. Mount the spiral spring and spring gear.
+5. Add the pawl near the ratchet teeth of the spring gear.
+6. Place the middle gear in the correct position.
+7. Mount the axle gear and wheel axle.
+8. Attach the wheels to the axle.
+9. Test that all gears and wheels rotate freely.
+10. Attach the side body panels around the chassis.
+11. Glue only the non-moving body parts if needed.
+12. Run the Fusion 360 motion study to demonstrate the mechanism.
+
+---
+
+## Expected Motion
+
+When the mechanism is tensioned and released, the spring gear rotates and transfers motion through the gear train.
+
+Expected motion sequence:
+
+```text
+Spring releases energy
+        ↓
+Spring gear rotates
+        ↓
+Middle gear rotates in the opposite direction
+        ↓
+Axle gear rotates
+        ↓
+Wheel axle rotates
+        ↓
+Wheels rotate
+```
+
+The final expected result is a small mechanical car whose wheels are driven by a spring-powered gear transmission.
+
+---
+
+## Functionality Showcase
+
+A short video demonstrates the Fusion 360 motion study, motion links, and the expected movement of the gear train.
+
+```md
+[Watch the motion study video on YouTube](PASTE_YOUTUBE_LINK_HERE)
+```
+
+The video shows:
+
+* the full car assembly;
+* the internal gear mechanism;
+* the motion links between gears;
+* the wheel axle rotation;
+* how the car could be assembled from separate printed parts.
+
+---
+
+## Limitations
+
+The model is designed as a functional CAD prototype for 3D printing and motion simulation. Some limitations may appear after real printing, especially because the mechanism contains multiple moving parts.
+
+Possible limitations:
+
+* the spiral spring may need thickness adjustments depending on the PETG flexibility;
+* the gears may need sanding if the tolerances are too tight;
+* the pawl may need small adjustments to engage smoothly with the ratchet teeth;
+* the car body is mainly decorative and should not touch the moving gears;
+* glue may be needed for non-moving body shell parts;
+* real movement depends on print quality, friction, and material stiffness.
+
+---
 
 
 ## References
