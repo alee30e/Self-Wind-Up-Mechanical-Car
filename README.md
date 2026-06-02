@@ -12,7 +12,8 @@ The model uses a spiral spring, a ratchet-style locking mechanism, and a small g
 </p>
 
 <p align="center">
-  <img src="images/Render3.png" width="60%">
+  <img src="images/Rander4.png" width="45%">
+  <img src="images/Rander5.png" width="45%">
 </p>
 
 ---
